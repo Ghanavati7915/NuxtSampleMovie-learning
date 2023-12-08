@@ -1,7 +1,4 @@
 # Nuxt 3 Movie Site
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
-
-![alt text]([http://url/to/img.png](https://raw.githubusercontent.com/Ghanavati7915/NuxtSampleMovie-learning/master/public/img/Site-Sample.png))
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+Look at the [ Part 1 - Nuxt 3 Learning Course ](https://nuxt.com/docs/getting-started/introduction) to learn more.
+![Site-Sample](https://github.com/Ghanavati7915/NuxtSampleMovie-learning/assets/27079323/bbc659ab-a70e-4c9c-90d3-042a459fc064)
