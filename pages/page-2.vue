@@ -3,7 +3,9 @@
 </script>
 
 <template>
-  $END$
+  <div>
+    <h1> Page 2 [ Contact ] </h1>
+  </div>
 </template>
 
 <style scoped>

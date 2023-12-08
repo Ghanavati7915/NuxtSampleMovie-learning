@@ -3,9 +3,13 @@
 </script>
 
 <template>
-  $END$
+<div>
+<div> Hello World </div>
+</div>
 </template>
 
 <style scoped>
+
+
 
 </style>
